@@ -1,4 +1,6 @@
-1: ![image](https://github.com/user-attachments/assets/52753614-8f3d-497c-8b17-bc65a742ce6c)
+1: codigo: ![image](https://github.com/user-attachments/assets/a31a18cd-d916-4c85-ad99-6430a64c1ef5) impresion: ![image](https://github.com/user-attachments/assets/7db5d757-cec9-4b3f-af45-170bd254f96d)
+
+
 
 
 <!---
